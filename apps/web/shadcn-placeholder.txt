@@ -1,0 +1,1 @@
+This project is ready for shadcn/ui installation (requires CLI).

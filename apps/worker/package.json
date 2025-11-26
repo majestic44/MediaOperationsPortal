@@ -1,0 +1,10 @@
+{
+  "name":"worker",
+  "private":true,
+  "scripts":{"dev":"node src/main.js"},
+  "dependencies":{
+    "bullmq":"^4.0.0",
+    "ioredis":"^5.0.0",
+    "dotenv":"^16.0.0"
+  }
+}
