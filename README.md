@@ -1,4 +1,4 @@
-# 🌐 MCMP — Multi-Client Media Platform  
+# 🌐 MC-MOP — Multi-Client Media Platform  
 ### Centralized Content Creation, Scheduling, Publishing & Analytics for Agencies  
 **⚠ Proprietary Software — Licensing Required (Not Open Source)**
 
